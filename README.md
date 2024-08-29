@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/dnop030/">
 		<img alt="My Github" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
 	</a>
-  <a href="https://www.linkedin.com/in/nuttapon-n-53a25438/">
+  <a href="https://www.linkedin.com/in/pratan-srikamonpattanawut-276341b5/">
 		<img alt="My Likedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 	</a>
   <a href="mailto:dnop030@gmail.com">
