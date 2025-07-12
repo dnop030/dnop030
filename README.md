@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dnop030/dnop030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋
 
 ## About me
 > I'm a coder and a 42 BKK outer core student.
