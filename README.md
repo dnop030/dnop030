@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About me
+> I'm a coder and a 42 BKK outer core student.
+
+## Skills
+- C / C++
+- VHDL/Verilog
+- Python
+- Assembly (x86_64)
+- Linux (Ubuntu, LFS/BLFS)
+- Hardware
+  MCU AVR, STM32
+  FPGA Altera Arria 10, Stratix 10/ Xilinx Ultra Scale,Ultra Scale+
+
 ---
 
 | [![dnop030's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnop030&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vision-friendly-dark)](https://github.com/dnop030?tab=repositories) | [![dnop030's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnop030&layout=compact&hide_border=true&theme=vision-friendly-dark)](https://github.com/dnop030?tab=repositories) |
